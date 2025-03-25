@@ -1,5 +1,3 @@
-Quotes_app 
-
 Quotes_app это небольшое приложения по просмотру случайных цитат, фронтэнд часть на React+Vite, bootstrap и typescript, бэкэнд на express + node js, postgreSql
 
 Функций которые доступны сейчас 
